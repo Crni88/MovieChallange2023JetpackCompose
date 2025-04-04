@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MovieChallange2023JetpackCompose</string>
+    <string name="your_favorites">YOUR <b>FAVORITES</b></string>
+</resources>
